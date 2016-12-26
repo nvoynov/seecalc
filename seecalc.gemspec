@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["voynov@gmail.com"]
 
   spec.summary       = %q{Software Engineering Economics Calculator.}
-  spec.description   = %q{SEECALC provides estimations by PERT and FPA.}
+  spec.description   = %q{SEECalc provides software efforts estimation by PERT and FPA methods. It also provides Cost of Delay prioritizer.}
   spec.homepage      = "https://github.com/nvoynov/seecalc"
   spec.license       = "MIT"
 
